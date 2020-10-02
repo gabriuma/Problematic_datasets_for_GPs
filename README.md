@@ -1,1 +1,1 @@
-Problematic_datasets_for_GPs
+This repository contains some data sets where we encountered some difficulties in sampling efficiency using Stan. As far as I remember, I think these problems was mainly overcame by using the marginalized form of a GP with a normal observation model, instead of using a latent GP function formulation.
